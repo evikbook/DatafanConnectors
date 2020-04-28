@@ -10,6 +10,11 @@ Note, to load extensions during development, you will need to lower the security
 3. Under _Data Extensions_, select _Allow any extension to load without warning or validation_
 4. Restart Power BI Desktop
 
+# If you need to auto-refresh data in the Power BI cloud
+
+1. You need to install [On-premises data sources with a Power BI gateway](https://powerbi.microsoft.com/en-us/gateway/)
+2. [Setup Instruction](https://docs.microsoft.com/en-us/data-integration/gateway/service-gateway-install)
+
 # Support
 
 https://datafan.pro/support/
