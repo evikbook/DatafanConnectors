@@ -1,7 +1,7 @@
 # Power BI Desktop коннектор
 
 1. Перед установкой коннектора, PowerBI необходимо закрыть.
-2. Скачайте файл коннектора в папку `[Documents]\Power BI Desktop\Custom Connectors`, если ее не существует, то сначала создать ее.
+2. Скачайте [файл коннектора](https://github.com/evikbook/DatafanConnectors/blob/master/PowerBi/Datafan.mez) в папку `[Documents]\Power BI Desktop\Custom Connectors`, если ее не существует, то сначала создать ее.
 2. Откройте Power BI Desktop
 
 Обратите внимание: чтобы загружать коннекторы сторонних разработчиков (Datafan.pro), вам необходимо снизить уровень безопасности для расширений в Power BI Desktop.
